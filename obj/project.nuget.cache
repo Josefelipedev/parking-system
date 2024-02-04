@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WY7LzOLFm/iclttdMo2jVF5H+b5mNx4GYma8Qp/H5tCkVy9KITGcn/DdXbXhHKhrfUm9aFVr1Rudd7fWIrlwQQ==",
+  "dgSpecHash": "E0d5Imufh4wAbwkd2NbE4TiSpxiewqrCU2ahFzUNOZSG+a5eS56EdA72LRKxEJO3vRGzEUw/lwl4/BodnMkrSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ze-ka\\Downloads\\dotnet\\DesafioFundamentos\\DesafioFundamentos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ze-ka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ze-ka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ze-ka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ze-ka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

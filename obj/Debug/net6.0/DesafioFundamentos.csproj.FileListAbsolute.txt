@@ -12,3 +12,4 @@ C:\Users\ze-ka\Downloads\dotnet\DesafioFundamentos\obj\Debug\net6.0\refint\Desaf
 C:\Users\ze-ka\Downloads\dotnet\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
 C:\Users\ze-ka\Downloads\dotnet\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
 C:\Users\ze-ka\Downloads\dotnet\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
+C:\Users\ze-ka\Downloads\dotnet\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
